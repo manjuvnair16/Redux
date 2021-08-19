@@ -1,2 +1,2 @@
 # Redux
-Journal to store code from freecodecamp Redux exercises
+Journal to document code from freecodecamp Redux exercises
